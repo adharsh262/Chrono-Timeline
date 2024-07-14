@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.projectCard {
+  width: 200px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border: solid #e6e6ff 1px;
+  border-radius: 5px;
+}
+.projectImg {
+  width: 100%;
+  height: 120px;
+}
+.headProject {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.headingProject {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.duration {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.paraProject {
+  font-size: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.timeduration {
+  font-size: 10px;
+}
+.ancorEl {
+  text-decoration: none;
+  color: #0967d2;
+  font-size: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
